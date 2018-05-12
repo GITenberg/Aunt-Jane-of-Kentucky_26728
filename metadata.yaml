@@ -1,0 +1,43 @@
+_repo: Aunt-Jane-of-Kentucky_26728
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Strong, Beulah
+    gutenberg_agent_id: '32208'
+    url: http://www.gutenberg.org/2009/agents/32208
+covers:
+- cover_type: archival
+  image_path: 26728-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hall, Eliza Calvert
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '32207'
+    url: http://www.gutenberg.org/2009/agents/32207
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Calvert_Hall
+description: Well known for her gentle folk wisdom, the elderly fictional Aunt Jane
+  vividly describes a picturesque and almost vanished way of life in the rural South
+  of the last century. Her words recall lavish Sunday dinners, courtships, quilting
+  bees, church meetings, and county fair competitions. Yet Aunt Jane of Kentucky is
+  more than a collection of reminiscences about the region of Western Kentucky where
+  Eliza Caroline Obenchain (who published under the name Eliza Calvert Hall) was born
+  and raised. A dedicated suffragist, Obenchain worked to win rights for women in
+  the areas of property ownership and divorce. Now modern readers can become acquainted
+  with the strong women of these tales.
+gutenberg_issued: '2008-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Older women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+title: Aunt Jane of Kentucky
+url: http://www.gutenberg.org/ebooks/26728
